@@ -13,7 +13,8 @@
 
 ---
 
-<img width="1273" height="783" alt="Screenshot 2025-12-26 014453" src="https://github.com/user-attachments/assets/fc5c03e2-dd9b-4a42-8e6e-c2875928ff43" />
+<img width="3660" height="2360" alt="Coimbature Weather" src="https://github.com/user-attachments/assets/6647c000-2fa5-47f3-a1d2-3baa679c88b8" />
+
 
 ## 📖 Overview
 
@@ -55,8 +56,10 @@
    n8n start
 
 
-<img width="1273" height="783" alt="Screenshot 2025-12-26 014453" src="https://github.com/user-attachments/assets/b31e8244-f52e-4c07-961e-5f70e1650a3e" />
-   <img width="1703" height="749" alt="Screenshot 2025-12-26 003604" src="https://github.com/user-attachments/assets/d6c5e83b-3d1d-4fdc-bab0-e349d3bebdda" />
+
+<img width="615" height="453" alt="Screenshot 2025-12-26 014522" src="https://github.com/user-attachments/assets/79dbc64b-e1e2-4868-be0d-5304c2ce0de8" />
+<img width="3023" height="1860" alt="khulna" src="https://github.com/user-attachments/assets/b8afc193-f05a-402b-9747-d424c9941e0b" />
+
 
 
 
@@ -217,3 +220,7 @@ Before using this AI Agent, you need to complete the following:
 
 **Q: Does it work on mobile?**
 > A: Yes! Connect it to WhatsApp, Telegram, or any chat app.
+
+
+<img width="1415" height="487" alt="Screenshot 2025-12-26 015906" src="https://github.com/user-attachments/assets/f0bbfe6a-4ce2-40ac-a79a-7ba9534c3a98" />
+
