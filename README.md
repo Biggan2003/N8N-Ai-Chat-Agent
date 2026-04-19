@@ -13,6 +13,8 @@
 
 ---
 
+<img width="1273" height="783" alt="Screenshot 2025-12-26 014453" src="https://github.com/user-attachments/assets/fc5c03e2-dd9b-4a42-8e6e-c2875928ff43" />
+
 ## 📖 Overview
 
 **N8N-Ai-Chat-Agent** is an intelligent chatbot built on the [n8n](https://n8n.io/) automation platform. It combines the power of **Google Gemini AI**, **conversation memory**, and various **tools** (like Calculator) to deliver an interactive chat experience.
@@ -35,3 +37,26 @@
 ---
 
 ## 📊 Workflow Architecture
+
+
+
+
+
+---
+
+## 🚀 Setup Guide
+
+### Prerequisites
+
+| Requirement | Description |
+|-------------|-------------|
+| **n8n** | Self-hosted or n8n.cloud account (v0.268.0 or higher) |
+| **Google Gemini API Key** | Get from [Google AI Studio](https://makersuite.google.com/app/apikey) |
+| **Node.js** | If self-hosting (v18+ recommended) |
+
+### Installation Steps
+
+1. **Install n8n** (if self-hosting)
+   ```bash
+   npm install n8n -g
+   n8n start
