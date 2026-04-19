@@ -7,7 +7,7 @@
 [![n8n](https://img.shields.io/badge/n8n-0.268.0-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-%234285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License](https://img.shields.io/badge/License-MIT-%23FFD966?style=for-the-badge&logo=opensourceinitiative&logoColor=black)](LICENSE)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-%23ff69b4?style=for-the-badge)](https://github.com/Biggan2003)
+[![Made with Biggan](https://img.shields.io/badge/Made%20with-❤️-%23ff69b4?style=for-the-badge)](https://github.com/Biggan2003)
 
 </div>
 
